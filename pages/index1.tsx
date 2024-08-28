@@ -3,7 +3,7 @@ import { useEffect, useRef, useState } from 'react';
 import io, { Socket } from 'socket.io-client';
 import Webcam from 'react-webcam';
 
-const socketURL = 'http://localhost:8000';
+const socketURL = 'http://103.175.221.57:8000';
 
 export default function Home() {
   const [processedImage, setProcessedImage] = useState<string | null>(null);
