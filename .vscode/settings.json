@@ -1,0 +1,21 @@
+{
+  "detectedConfig": {
+    "typescript": true,
+    "naming": "Pascal Case",
+    "unit": "px",
+    "framework": "nextjs",
+    "styling": "CSS"
+  },
+  "locofyConfig": {
+    "project": "Video Injection",
+    "id": "66aeec19617e4f227cb112ce",
+    "framework": "react-nextjs",
+    "typescript": true,
+    "styling": "Tailwind",
+    "unit": "px",
+    "naming": "Kebab Case",
+    "path": "public/",
+    "componentsPath": "/Users/rpadliwinata/next/video-injection/src/components",
+    "screensPath": "/Users/rpadliwinata/next/video-injection/src/pages"
+  }
+}
